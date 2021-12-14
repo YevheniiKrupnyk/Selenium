@@ -1,4 +1,4 @@
-package ua.privatBank;
+package saucedemo;
 
 import org.junit.After;
 import org.junit.Before;
